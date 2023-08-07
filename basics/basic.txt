@@ -1,0 +1,13 @@
+Topic:  Git and Github
+Date: 7-08-2023
+
+1. Git: Git is the verson controll software that runs locally on your machine.
+
+2. Github: Github is a service that hosts Git repositories in the clould and makes
+it easier to collaborate with other people.
+
+Git and github commands
+
+3. git add . :  This is to add untracked files and make them ready to be committed 
+
+4. git commit -m 'commit message':  This is to commit your files to github.
